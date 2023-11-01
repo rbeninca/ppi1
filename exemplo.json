@@ -1,0 +1,34 @@
+{
+    "pessoas":[
+        {
+          "nome":"João",
+          "idade":"10",
+          "email":"j@gmail.com"
+        },
+        {
+            "nome":"Augusto",
+            "idade":"18",
+            "email":"augusto@gmail.com"
+          } , {
+            "nome":"João",
+            "idade":"10",
+            "email":"j@gmail.com"
+          }, {
+            "nome":"João",
+            "idade":"10",
+            "email":"j@gmail.com"
+          }, {
+            "nome":"João",
+            "idade":"10",
+            "email":"j@gmail.com"
+          }, {
+            "nome":"João",
+            "idade":"10",
+            "email":"j@gmail.com"
+          }, {
+            "nome":"João",
+            "idade":"10",
+            "email":"j@gmail.com"
+          } 
+            ]
+}
